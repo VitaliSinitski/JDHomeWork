@@ -1,6 +1,10 @@
 package homework.lesson03;
 
-//Strategy
+/**
+ * Strategy
+ * Общий интерфейс всех стратегий.
+ */
+
 public interface StudentsTypes {
     void learningType(double skill);
 }

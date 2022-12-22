@@ -1,6 +1,10 @@
 package homework.lesson03;
 
-//Strategy 2
+/**
+ * Strategy 2
+ * Конкретная стратегия. Реализует 2-ой тип студентов.
+ */
+
 class StudentsType02 implements StudentsTypes {
 
     @Override
