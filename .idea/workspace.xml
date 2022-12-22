@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c126b4b8-c125-423c-9af5-a5c240e8ac17" name="Changes" comment="Добавил новую версию дз по Сумашедшим ученым">
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson02/AcademyInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson02/AcademyInfoClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/lesson03/StudentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/lesson03/StudentClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/lesson03/StudentsType01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/lesson03/StudentsType02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/lesson03/StudentsType03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/lesson03/StudentsTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -41,19 +46,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Vitali/IdeaProjects/IT/JDHomeWork.iml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.AcademyInfoClass">
+}]]></component>
+  <component name="RunManager" selected="Application.StudentApp">
     <configuration name="AcademyInfoClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.lesson02.AcademyInfoClass" />
       <module name="JDHomeWork" />
@@ -93,19 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RobotsVer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.lesson02.RobotsVer01" />
-      <module name="JDHomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.lesson02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RobotsVerThread01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.lesson02.RobotsVerThread01" />
       <module name="JDHomeWork" />
@@ -119,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.lesson03.StudentApp" />
+      <module name="JDHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.lesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentApp" />
         <item itemvalue="Application.AcademyInfoClass" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Man" />
         <item itemvalue="Application.RobotsVerThread01" />
-        <item itemvalue="Application.RobotsVer01" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +146,10 @@
       <workItem from="1671395874702" duration="8058000" />
       <workItem from="1671490892224" duration="925000" />
       <workItem from="1671540318568" duration="3832000" />
+      <workItem from="1671747697410" duration="286000" />
+      <workItem from="1671748101612" duration="9000" />
+      <workItem from="1671748231312" duration="2000" />
+      <workItem from="1671748284005" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="Выполнин часть дз">
       <created>1671398314077</created>
