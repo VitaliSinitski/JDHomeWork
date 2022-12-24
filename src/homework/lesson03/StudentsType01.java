@@ -8,7 +8,7 @@ package homework.lesson03;
 public class StudentsType01 implements StudentsTypes {
     @Override
     public void learningType(double skill) {
-        int learningTime = (int) (StudentClient.typeSuper / skill);
+        int learningTime = (int) (StudentClient.TYPE_SUPER / skill);
 
         System.out.println("Тип студента: 1; талант студента: "
                 + skill + "; время необходимое для разбора: "

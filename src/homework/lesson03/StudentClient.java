@@ -15,7 +15,7 @@ class StudentClient {
         studentsTypes.learningType((new Random().nextInt(10) + 1) / 10.0);
     }
 
-    public static final int typeSuper = 198;
+    public static final int TYPE_SUPER = 198;
 
 
 }
