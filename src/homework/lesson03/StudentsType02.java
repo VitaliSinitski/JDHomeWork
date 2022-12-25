@@ -9,7 +9,7 @@ class StudentsType02 implements StudentsTypes {
 
     @Override
     public void learningType(double skill) {
-        int learningTime = (int) (StudentClient.typeSuper * 2 / skill);
+        int learningTime = (int) (StudentClient.TYPE_SUPER * 2 / skill);
 
         System.out.println("Тип студента: 2; талант студента: "
                 + skill + "; время необходимое для разбора: "

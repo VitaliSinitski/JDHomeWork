@@ -1,6 +1,5 @@
 package homework.lesson03;
 
-import java.util.Random;
 
 //Context
 class StudentClient {
@@ -12,10 +11,12 @@ class StudentClient {
     }
 
     public void executeStudentTypes() {
-        studentsTypes.learningType((new Random().nextInt(10) + 1) / 10.0);
+        int rand = (int) (Math.random() * 10) +1;
+        studentsTypes.learningType(rand/10.0);
+//        studentsTypes.learningType((new Random().nextInt(10) + 1) / 10.0);
     }
 
-    public static final int typeSuper = 198;
+    public static final int TYPE_SUPER = 198;
 
 
 }

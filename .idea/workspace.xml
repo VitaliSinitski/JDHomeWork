@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c126b4b8-c125-423c-9af5-a5c240e8ac17" name="Changes" comment="Добавлена задача со студентами">
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson03/TaskStudentsInfo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/lesson03/StudentsType01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/lesson03/StudentsType01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/lesson03/StudentsType02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/lesson03/StudentsType02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/lesson03/StudentsType03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/lesson03/StudentsType03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/lesson03/StudentsTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/lesson03/StudentsTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/lesson03/StudentClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/lesson03/StudentClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +24,16 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lesson02" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2J6Q5HbvbBd62zkBWOOl86bzkcj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -45,19 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Vitali/IdeaProjects/IT/JDHomeWork.iml",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vitali/IdeaProjects/IT/JDHomeWork.iml&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.StudentApp">
     <configuration name="AcademyInfoClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.lesson02.AcademyInfoClass" />
@@ -149,6 +148,8 @@
       <workItem from="1671748101612" duration="9000" />
       <workItem from="1671748231312" duration="2000" />
       <workItem from="1671748284005" duration="1382000" />
+      <workItem from="1671902048913" duration="446000" />
+      <workItem from="1671902536798" duration="2044000" />
     </task>
     <task id="LOCAL-00001" summary="Выполнин часть дз">
       <created>1671398314077</created>
