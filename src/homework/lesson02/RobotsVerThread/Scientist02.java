@@ -1,3 +1,4 @@
+
 package homework.lesson02.RobotsVerThread;
 
 public class Scientist02 extends Thread {
